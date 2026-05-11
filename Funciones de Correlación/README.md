@@ -8,14 +8,14 @@ A continuación se presenta una descripción del contenido y funcionalidad de lo
 
     a) ¿Qué pasa si x0=1 con la transformada?
   
-    b) Escoge varios valores de s, ¿Qué pasa si s=1?
+    b) Escoge varios valores de s
   
-    c) Compara lo obtenido con la función FFT 
+    c) Compara lo obtenido con la función FFT
 
 3. Construye una caja de lado 1000 en 2 y 3 dimensiones de una distribución aletatoria de puntos.
 
-4. Código que calcule histograma de distancias para 2d y 3d de una distribución de puntos aleatorios, 
-escogiendo el tamaño de los bins, y normalizada a que su area sea 1.
+4. Código que calcula el histograma de distancias para 2d y 3d de una distribución de puntos aleatorios, 
+escogiendo el tamaño de los bins, y normalizada para que su area sea 1.
 
 ### Funciones_Correlacion.ipynb
 
