@@ -53,7 +53,7 @@ Utilizando 10 veces el número de puntos en las muestras aleatorias que con los 
 6. Modifica el tamaño de la caja a 2000 y 3000, manteniendo la densidad constante de puntos con respecto al inciso 1), calcula 
 de nuevo las funciones de correlación para cada estimador del inciso 2) y las compara, considerando sólo los datos del inciso 1a, y 1d.
 
-### saijsaisi.ipynb
+### Espectro_Potencias.ipynb
 
 1. Encuentra el espectro de potencias en 1d, 2d y 3d para la función de correlación 
 
