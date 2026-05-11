@@ -10,7 +10,7 @@ A continuación se presenta una descripción del contenido y funcionalidad de lo
   
     b) Escoge varios valores de s, ¿Qué pasa si s=1?
   
-    c) Compara lo obtenido con la función FFT (Nota: la salida de FFT puede esta con otro orden en k!)
+    c) Compara lo obtenido con la función FFT 
 
 3. Construye una caja de lado 1000 en 2 y 3 dimensiones de una distribución aletatoria de puntos.
 
