@@ -1,6 +1,6 @@
 A continuación se presenta una descripción del contenido y funcionalidad de los códigos organizados por nombre de archivo.
 
-# Histogramas_NumerosAleatorios_TransformadaFourier
+### Histogramas_NumerosAleatorios_TransformadaFourier.ipynb
 
 1. Código personal que calcula la transformada de Fourier de una función f(x)
 
@@ -17,4 +17,4 @@ A continuación se presenta una descripción del contenido y funcionalidad de lo
 4. Código que calcula histograma de distancias para 2d y 3d de una distribución de puntos aleatorios, 
 escogiendo el tamaño de los bins, y normalizada a que su area sea 1.
 
-#
+### Histogramas_NumerosAleatorios_TransformadaFourier.ipynb
