@@ -89,7 +89,7 @@ de cada distancia en X y Y.
 
     a) Construye dos anillos concéntricos de radios distintos y ancho fijo, pero que el radio mayor del anillo más pequeño sea igual al radio menor del anillo más grande (ie ambos anillos se ven como un solo anillo del doble de ancho). La densidad de ambos anillos es igual. Grafica la distribución poniendo color rojo a los puntos del anillo pequeño y azul a los del grande.
         
-    b) Mide la función de correlación asignando los siguientes pesos a cada punto: para puntos en el anillo pequeño (rojos) usa un peso de 2, mientras que para puntos en el anillo grande (azules) usa 1/2. Sobrepon en una gráfica la función de correlación sin pesos con la de pesos, y describe las diferencias en palabras.
+    b) Mide la función de correlación asignando los siguientes pesos a cada punto: para puntos en el anillo pequeño (rojos) usa un peso de 2, mientras que para puntos en el anillo grande (azules) usa 1/2. Sobrepone en una gráfica la función de correlación sin pesos con la de pesos, y describe las diferencias en palabras.
         
 
 2.  De partículas a una malla. Usa la rutina [scipy.interpolate.griddata](https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.griddata.html). 
