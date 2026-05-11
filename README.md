@@ -1,8 +1,8 @@
-# Ejercicios 1
+A continuación se presenta una descripción del contenido y funcionalidad de los códigos organizados por nombre de archivo.
 
-## Entrega Jueves 12 de Noviembre
+# Histogramas_NumerosAleatorios_TransformadaFourier
 
-1. Código personal que calcule transformada de Fourier de una función f(x)
+1. Código personal que calcula la transformada de Fourier de una función f(x)
 
 2. Muestra la transformada de Fourier de una Gaussiana con dispersión s y centrada en x0=0. 
 
@@ -14,7 +14,7 @@
 
 3. Construye una caja de lado 1000 en 2 y 3 dimensiones de una distribución aletatoria de puntos.
 
-4. Código que calcule histograma de distancias para 2d y 3d de una distribución de puntos aleatorios, 
+4. Código que calcula histograma de distancias para 2d y 3d de una distribución de puntos aleatorios, 
 escogiendo el tamaño de los bins, y normalizada a que su area sea 1.
 
-5. Sube el set de ejercicios a tu Github Classroom y recuerda hacer tu **autoevaluación** de este set de ejercicios en el archivo _autoeval.md_.
+#
