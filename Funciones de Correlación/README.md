@@ -53,3 +53,17 @@ Utilizando 10 veces el número de puntos en las muestras aleatorias que con los 
 6. Modifica el tamaño de la caja a 2000 y 3000, manteniendo la densidad constante de puntos con respecto al inciso 1), calcula 
 de nuevo las funciones de correlación para cada estimador del inciso 2) y las compara, considerando sólo los datos del inciso 1a, y 1d.
 
+### saijsaisi.ipynb
+
+1. Encuentra el espectro de potencias en 1d, 2d y 3d para la función de correlación 
+
+<img src="https://latex.codecogs.com/gif.latex?\xi(r)=\left(\frac{r}{r_0}\right)^{-\gamma}" title="\xi(r)=\left(\frac{r}{r_0}\right)^{-\gamma}" /> 
+
+2. Calcula el espectro de potencias para las distribuciones que se realizo en Funciones_Correlacion.ipynb
+
+<img src="https://latex.codecogs.com/gif.latex?\hat{P}(\mathbf{k})=V\left&space;|&space;\frac{1}{N}\sum_{i=gal}^N&space;e^{-i&space;\mathbf{k\cdot&space;x}}\right&space;|^2&space;-\frac{V}{N}" title="\hat{P}(\mathbf{k})=V\left | \frac{1}{N}\sum_{i=gal}^N e^{i \mathbf{k\cdot x}}\right |^2 -\frac{V}{N}" />
+
+  a) Determina un rango en k y usa 20-100 bins en kx y ky. 
+  
+  b) Obtiene la transformada de Fourier de estos espectros y comparas con las funciones de correlación de Funciones_Correlacion.ipynb
+  
