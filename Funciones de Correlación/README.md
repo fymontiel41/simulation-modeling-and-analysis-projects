@@ -67,3 +67,18 @@ de nuevo las funciones de correlación para cada estimador del inciso 2) y las c
   
   b) Obtiene la transformada de Fourier de estos espectros y comparas con las funciones de correlación de Funciones_Correlacion.ipynb
   
+
+### Corrimiento_Rojo.ipynb
+
+1.  Genera datos con “corrimiento al rojo” para los datos del Anillo en 2d. Para ello se crea un mapa de velocidad: 
+en una vecindad de L/10 de cada punto "pivote" en los datos, encuentra el punto más cercano y generar una velocidad 
+para este punto pivote en la dirección del punto más cercano proporcional a su distancia (v=100/dist). 
+Guardar el nuevo punto con coordenadas    <img src="https://latex.codecogs.com/gif.latex?\mathbf{r}=(x,&space;y&plus;v\cdot\hat{i})" title="\mathbf{r}=(x, y+v\cdot\hat{i})" />. 
+
+
+2. Cambiar el código de la función de correlación con estimador de Landy-Salay, para que sea anisotrópico y guarde la componente 
+de cada distancia en X y Y. 
+
+   a) Con este código calcula la función de correlación anisotrópica del inciso anterior 
+   y la muestra la gráfica de densidad en 2d 
+   
