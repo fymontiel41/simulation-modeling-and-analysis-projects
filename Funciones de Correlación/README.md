@@ -2,7 +2,7 @@ A continuación se presenta una descripción del contenido y funcionalidad de lo
 
 ### Histogramas_NumerosAleatorios_TransformadaFourier.ipynb
 
-1. Código personal que calcule transformada de Fourier de una función f(x)
+1. Código personal que calcula la transformada de Fourier de una función f(x)
 
 2. Muestra la transformada de Fourier de una Gaussiana con dispersión s y centrada en x0=0. 
 
