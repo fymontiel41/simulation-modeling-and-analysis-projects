@@ -1,7 +1,7 @@
 # Liquid-Vapor Phase Transition in Argon
 
 This code presents a molecular dynamics simulation of argon undergoing
-a liquid–vapor phase transition, using the Lennard-Jones interatomic potential. The
+a liquid–vapor phase transition, using the Lennard-Jones interatomic potential, based on the methodology described in: https://www.sciencedirect.com/science/article/abs/pii/S1290072900002039?via%3Dihub. The
 study examines thermodynamic properties such as pressure, temperature, and density
 as the system evolves over time. A configuration with phase coexistence is reached,
 in which a liquid droplet is surrounded by vapor. Density profiles reveal a smooth
