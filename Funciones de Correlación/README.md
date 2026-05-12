@@ -48,7 +48,7 @@ Utilizando 10 veces el número de puntos en las muestras aleatorias que con los 
     b) Usando 1 archivo con 1, 5, 10 y 50 veces el número de puntos que los datos, y promedia las funciones de correlación
     c) Usando 1, 5, 10 y 50 archivos de muestras aleatorias con el mismo número de puntos que los datos
 
-5. Se integra la función de correlación sobre la distancia para cada estimaor del inciso 3 y considerando sólo los datos del inciso 1a, y 1d.
+5. Se integra la función de correlación sobre la distancia para cada estimador del inciso 3 y considerando sólo los datos del inciso 1a, y 1d.
 
 6. Modifica el tamaño de la caja a 2000 y 3000, manteniendo la densidad constante de puntos con respecto al inciso 1), calcula 
 de nuevo las funciones de correlación para cada estimador del inciso 2) y las compara, considerando sólo los datos del inciso 1a, y 1d.
